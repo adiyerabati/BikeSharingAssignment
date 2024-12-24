@@ -146,7 +146,7 @@ The objective is to model the demand for shared bikes using the provided indepen
 
 ---
 
-# Conclusion
+# Conclusions
 
 ### Positive Factors:
 1. **Temperature (temp):**  
