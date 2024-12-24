@@ -10,7 +10,7 @@
 
 # Bike Sharing Demand Prediction
 
-#General Information
+# General Information
 
 ## Problem Statement
 
