@@ -10,6 +10,8 @@
 
 # Bike Sharing Demand Prediction
 
+#General Information
+
 ## Problem Statement
 
 A bike-sharing system provides bicycles for shared use on a short-term basis, either for a fee or free of charge. Many such systems utilize computer-controlled "docks," where users input payment information to unlock a bike. The bike can then be returned to any dock within the same system.
