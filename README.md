@@ -42,6 +42,78 @@ The objective is to model the demand for shared bikes using the provided indepen
 - **cnt**: Total number of bike rentals (target variable), including both casual and registered users.  
 
 ---
+# Tecehnologies Used: 
+
+# Libraries Used
+
+### 1. **pandas**
+   - A powerful Python library used for data manipulation and analysis.
+   - Provides data structures like `DataFrame` and `Series` for handling and analyzing structured data effectively.
+   - **Documentation:** [pandas](https://pandas.pydata.org/)
+
+### 2. **numpy**
+   - A fundamental library for numerical computations in Python.
+   - Supports multi-dimensional arrays and a variety of mathematical functions for array manipulation.
+   - **Documentation:** [NumPy](https://numpy.org/)
+
+### 3. **matplotlib.pyplot**
+   - A plotting library for creating static, interactive, and animated visualizations in Python.
+   - `pyplot` is a module in `matplotlib` used for plotting graphs and visualizing data.
+   - **Documentation:** [Matplotlib](https://matplotlib.org/)
+
+### 4. **seaborn**
+   - A Python library built on `matplotlib` for making statistical data visualization more attractive and informative.
+   - Provides built-in themes, color palettes, and functions for complex visualizations like heatmaps and violin plots.
+   - **Documentation:** [Seaborn](https://seaborn.pydata.org/)
+
+### 5. **calendar**
+   - A built-in Python module that provides functions for working with dates and calendars.
+   - Useful for handling month names, weekdays, and generating calendar-based data.
+   - **Documentation:** [Calendar](https://docs.python.org/3/library/calendar.html)
+
+---
+
+## Regression Libraries
+
+### 6. **sklearn.model_selection.train_test_split**
+   - Splits datasets into training and testing subsets for model evaluation.
+   - A key tool for ensuring unbiased testing of machine learning models.
+   - **Documentation:** [train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+
+### 7. **sklearn.preprocessing.MinMaxScaler**
+   - A normalization tool that scales features to a specified range (default: 0 to 1).
+   - Helps improve the performance and convergence of machine learning models.
+   - **Documentation:** [MinMaxScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
+
+### 8. **sklearn.feature_selection.RFE**
+   - Recursive Feature Elimination (RFE) is a method for feature selection.
+   - Fits a model and eliminates less important features iteratively to find the most significant predictors.
+   - **Documentation:** [RFE](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)
+
+### 9. **sklearn.linear_model.LinearRegression**
+   - A linear approach for modeling the relationship between a dependent variable and one or more independent variables.
+   - Used for building regression models in machine learning.
+   - **Documentation:** [LinearRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+
+### 10. **sklearn.metrics.r2_score & mean_squared_error**
+   - `r2_score`: Measures how well the predicted values match the actual values in a regression model.
+   - `mean_squared_error`: Calculates the average squared difference between the predicted and actual values.
+   - **Documentation:** [Metrics](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics)
+
+---
+
+## Statistical Analysis
+
+### 11. **statsmodels.api**
+   - A Python library for estimating and testing statistical models.
+   - Provides detailed output for linear regression, time series analysis, and hypothesis testing.
+   - **Documentation:** [Statsmodels](https://www.statsmodels.org/)
+
+### 12. **statsmodels.stats.outliers_influence.variance_inflation_factor**
+   - Computes Variance Inflation Factor (VIF) to detect multicollinearity in regression models.
+   - Helps identify features with high correlation to avoid redundancy in predictors.
+   - **Documentation:** [VIF](https://www.statsmodels.org/stable/generated/statsmodels.stats.outliers_influence.variance_inflation_factor.html)
+
 
 ## Steps Taken
 
@@ -74,7 +146,7 @@ The objective is to model the demand for shared bikes using the provided indepen
 
 ---
 
-## Key Insights
+## Conclusion
 
 ### Positive Factors:
 1. **Temperature (temp):**  
