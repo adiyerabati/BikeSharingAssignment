@@ -42,7 +42,7 @@ The objective is to model the demand for shared bikes using the provided indepen
 - **cnt**: Total number of bike rentals (target variable), including both casual and registered users.  
 
 ---
-# Tecehnologies Used: 
+# Technologies Used 
 
 # Libraries Used
 
