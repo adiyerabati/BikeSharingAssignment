@@ -200,3 +200,13 @@ By leveraging these insights, BoomBikes can adjust its strategies to meet custom
 The graph below shows the predicted bike demand vs. the actual bike demand:
 
 ![Model Visualization](./image.png)
+
+# Acknowledgements 
+
+- This project was created by Aditya Yerabati
+- References used from the net for understanding various concepts
+
+# Contact
+- adiyerabati@gmail.com
+
+Thanks, hope this helps! 😃
