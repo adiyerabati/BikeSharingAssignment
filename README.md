@@ -1,6 +1,13 @@
 # BikeSharingAssignment
  build a multiple linear regression model for the prediction of demand for shared bikes. 
 
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
+
 # Bike Sharing Demand Prediction
 
 ## Problem Statement
